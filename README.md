@@ -1,2 +1,5 @@
-# buddylasta
-Buddylasta website
+# Steps to build the website
+
+
+
+

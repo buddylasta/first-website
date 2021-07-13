@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+
+<!--Logo and statement-->
+    <img src="/imgs/logo.png" alt="picture of buddylasta"
+        width="100" height="100"
+    >
+    <h1>Simple human in pursuit of a calloused mind</h1>
+
+<!--Adventures-->
+    <h1>Adventures</h1>
+    <!--add video or image with link-->
+    <p>One of my greatest joys is going on adventures in the wilderness to test my mettle.
+        I also enjoy documenting the journey with my GoPro and DJI Mavic Air 2 Drone. 
+        Click below to check out my latest videos.
+    </p>
+
+
+<!--Challenges-->
+    <h1>Challenges</h1>
+    <!--add video or image with link-->
+    <p>Challenges are designed to get you acquainted with an uncomfortable amount of adversity.
+        Through that adversity, one is able to callous his or her mind. This prepares you for
+        tougher challenges to come. Peep my blog to see some of the challenges I've tackled.
+    </p>
+
+<!--Bitcoin-->
+<h1>Bitcoin</h1>
+<!--add video or image with link-->
+<p>
+</p>
+
+<!--Podcast-->
+<h1>Podcast</h1>
+<!--add video or image with link-->
+<p>
+
+</p>
+
+</body>
+</html>
