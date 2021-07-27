@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(255, 255, 255);
+    /*margin: auto;*/
+}
+
+img {
+    text-align: center;
+    max-width: 500px;
+}
+
+h1 {
+    color: black;
+    font-family: Helvetica, sans-serif;    
+    text-align: center;
+    font-size: 30px;
+    /*max-width: 500px;*/
+    /*margin: auto;*/
+  }
+
+p {
+    color: black;
+    font-family: Garamond, serif;
+    text-align: justify;
+    font-size: 16px;
+    /*font-size:10vw makes responsive font size that moves with browser size */
+    /*max-width: 500px;*/
+    border: 1px solid black;
+    padding: 30px;
+    margin: 20px;
+    /*margin: auto;*/
+}
+
+button {
+    color: white;
+    font-family: Garamond, serif;
+    text-align: center;
+    font-size: 16px;
+    /*max-width: 500px;*/
+    background-color: black;
+    text-align: center;
+    padding: 14px 25px;
+}
+
+/*give nav position: sticky;*/
+/*float text with pics https://www.w3schools.com/css/css_float_clear.asp*/
+/*create nav https://www.w3schools.com/howto/howto_js_topnav.asp*/
