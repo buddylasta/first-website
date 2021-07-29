@@ -11,12 +11,12 @@ html {
 body {
     padding: 0px 0 20px 0px;
     margin: 0px;
-    font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #f0e7d5;
+    font: 16px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000000;
     font-weight: normal;
-    background: #00151a;
+    background: #ffffff;
     background-attachment: fixed !important;
-    background: linear-gradient(#00151a, #00151a);
+    background: linear-gradient(#ffffff, #ffffff);
 }
 
 .wrapper {
@@ -30,23 +30,18 @@ div {
     display: block;
 }
 
-@media print, screen and (max-width: 400px)
-section {
-    margin-top: 40px;
-}
-
 section {
     max-width: 650px;
     padding: 10px 0px 50px 0px;
     margin: 20px 0;
-    margin-top: 0px;
+    margin-top: 40px;
 }
 
 section img {
     max-width: 100%;
 }
 
-p. ul, ol, table, pre, dl {
+p, ul, ol, table, pre, dl {
     margin: 0 0 20px;
 }
 
@@ -63,7 +58,7 @@ p {
 }
 
 a {
-    color: #f99925;
+    color: #ff7c2a;
     font-weight: 400;
     text-decoration: none;
 }
@@ -78,11 +73,11 @@ img {
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 24px;
     font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
     font-weight: normal;
-    color: #b6b6b6;
+    color: #000000;
     display: block;
     font-size: 1.17em;
     margin-block-start: 1em;
@@ -92,15 +87,8 @@ h3 {
     font-weight: bold;
 }
 
-h1, h2, h3 {
-    line height: 1.1;
-}
-
 h1, h2, h3, h4, h5, h6 {
-    color: #e8e8e8;
     margin: 0 0 10px;
-    font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: normal;
 }
 
 table {
@@ -112,7 +100,44 @@ table {
     box-sizing: border-box;
     text-indent: initial;
     border-spacing: 2px;
-    border-color: gray;
+    border-color: rgb(0, 0, 0);
+}
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+th {
+    text-align: left;
+    padding: 5px 10px;
+    border-bottom: 1px solid #000000;
+    color: #000000;
+    font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-weight: normal;
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+td {
+    text-align: left;
+    padding: 5px 10px;
+    border-bottom: 1px solid #000000;
+    display: table-cell;
+    vertical-align: inherit;
 }
 
 menu, ol, ul {
