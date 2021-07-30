@@ -8,14 +8,18 @@ Anyways, check out the site! If you find value in it, donations are welcome at t
 
 ### Github Pages
 
-- First create a CNAME record in your DNS settings that points your subdomain to (user).github.io. Then point A records to github's servers. [Here is the guide](docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site). In my case, my DNS settings are on squarespace and I had to point them to my github user.
+- First create a CNAME record in your DNS settings that points your subdomain to (user).github.io. Then point A records to github's servers. [Here is the guide](docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site). 
 
-- 
+- Create a branch dedicated to your website. I created gh-pages. Then make sure the html file you want to use for your site is in the root directory. 
+
+- Your website is now ready to go. Make sure you test it out on different browsers!
 
 
 ### To Do List 
 
 - figure out how to add additional pages (i.e. buddylasta.com/podcast)
+- add favicon
+- add light/dark mode
 
 
 
