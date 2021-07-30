@@ -18,8 +18,7 @@ Anyways, check out the site! If you find value in it, donations are welcome at t
 ### To Do List 
 
 - figure out how to add additional pages (i.e. buddylasta.com/podcast)
-- add favicon
-- add light/dark mode
+- set a dark mode option color for my background (black p tag text won't show on phones with dark mode enabled)
 
 
 
