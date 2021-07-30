@@ -19,6 +19,7 @@ Anyways, check out the site! If you find value in it, donations are welcome at t
 
 - figure out how to incorporate my sats converter in this page (maybe create sats converter repo -> github pages with subdomain buddylasta.com/sats-converter -> use link in index.html)
 - set a dark mode option color for my background (black p tag text won't show on phones with dark mode enabled)
+- Add hover/other abilities for images
 
 
 
