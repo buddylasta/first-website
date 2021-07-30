@@ -41,6 +41,10 @@ section img {
     max-width: 100%;
 }
 
+.logo {
+    text-align: center;
+}
+
 p, ul, ol, table, pre, dl {
     margin: 0 0 20px;
 }
@@ -66,10 +70,6 @@ a {
 a:-webkit-any-link {
     cursor: pointer;
     text-decoration: underline;
-}
-
-img {
-    border: 0;
 }
 
 h3 {
