@@ -17,7 +17,7 @@ Anyways, check out the site! If you find value in it, donations are welcome at t
 
 ### To Do List 
 
-- Nothing for now!
+- Once I've developed my own maps, create a maps page with resources and bitcoin atm locations
 
 
 
