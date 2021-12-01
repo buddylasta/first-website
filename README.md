@@ -15,11 +15,4 @@ Anyways, check out the site! If you find value in it, donations are welcome at t
 - Your website is now ready to go. Make sure you test it out on different browsers!
 
 
-### To Do List 
-
-- create self-sovereignty page (security, FOSS apps, health, books, etc) only after I've done the work myself
-
-
-
-
-
+### To Do List
